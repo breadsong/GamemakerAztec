@@ -35,6 +35,6 @@ if keyboard_check_released(vk_left){
     sprite_index = lbase
 }
 if keyboard_check_released(vk_right){
-    speed = 0
+    speed = 0 
     sprite_index = lbase
 }
