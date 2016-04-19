@@ -8,6 +8,7 @@ Create folders as needed. List and description of folders can be found at the bo
 
 CHANGELOG:
 	* Added functional room scrolling
+	* Added basic collision detection
 
 TO DO:
 	* Get proper collision detection between objects

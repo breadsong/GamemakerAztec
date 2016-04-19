@@ -20,7 +20,6 @@
     <object>objects\block</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_init</room>
     <room>rooms\room0</room>
     <room>rooms\room1</room>
   </rooms>
