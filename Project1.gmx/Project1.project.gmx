@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\ld</sprite>
     <sprite>sprites\lbase</sprite>
+    <sprite>sprites\blocksprite</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -16,9 +17,12 @@
   </scripts>
   <objects name="objects">
     <object>objects\link</object>
+    <object>objects\block</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_init</room>
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
