@@ -9,6 +9,10 @@
     <sprite>sprites\ld</sprite>
     <sprite>sprites\lbase</sprite>
     <sprite>sprites\blocksprite</sprite>
+    <sprite>sprites\bushsprite</sprite>
+    <sprite>sprites\burntlogsprite</sprite>
+    <sprite>sprites\sprite5</sprite>
+    <sprite>sprites\sprite6</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -18,9 +22,11 @@
   <objects name="objects">
     <object>objects\link</object>
     <object>objects\block</object>
+    <object>objects\bush</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+    <room>rooms\room2</room>
     <room>rooms\room1</room>
   </rooms>
   <help>
