@@ -13,6 +13,8 @@
     <sprite>sprites\burntlogsprite</sprite>
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\sprite6</sprite>
+    <sprite>sprites\sprite7</sprite>
+    <sprite>sprites\sprite8</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -23,6 +25,7 @@
     <object>objects\link</object>
     <object>objects\block</object>
     <object>objects\bush</object>
+    <object>objects\object3</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
