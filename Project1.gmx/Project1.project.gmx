@@ -6,15 +6,17 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\ld</sprite>
-    <sprite>sprites\lbase</sprite>
     <sprite>sprites\blocksprite</sprite>
     <sprite>sprites\bushsprite</sprite>
     <sprite>sprites\burntlogsprite</sprite>
-    <sprite>sprites\sprite5</sprite>
-    <sprite>sprites\sprite6</sprite>
-    <sprite>sprites\sprite7</sprite>
-    <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\bouldersprite</sprite>
+    <sprite>sprites\treesprite</sprite>
+    <sprite>sprites\firesprite</sprite>
+    <sprite>sprites\seaweedsprite</sprite>
+    <sprite>sprites\playersprite</sprite>
+    <sprite>sprites\flowersprite</sprite>
+    <sprite>sprites\eelsprite</sprite>
+    <sprite>sprites\starfishsprite</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -22,10 +24,11 @@
     <script>scripts\walkscript.gml</script>
   </scripts>
   <objects name="objects">
-    <object>objects\link</object>
+    <object>objects\player</object>
     <object>objects\block</object>
     <object>objects\bush</object>
-    <object>objects\object3</object>
+    <object>objects\tree</object>
+    <object>objects\boulder</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
