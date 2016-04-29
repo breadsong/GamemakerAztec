@@ -185,11 +185,12 @@ if(x &gt; room_width){
 if(y &lt; 0){
     //Exited on top
     y = room_height - 20;
-
+    room_goto(global.room_up);
 }
 if(y &gt; room_height){
     //Exited on bottom
     y = 20;
+    room_goto(global.room_down);
 
 }
 </string>
