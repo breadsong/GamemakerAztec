@@ -17,12 +17,19 @@
     <sprite>sprites\flowersprite</sprite>
     <sprite>sprites\eelsprite</sprite>
     <sprite>sprites\starfishsprite</sprite>
+<<<<<<< HEAD
+    <sprite>sprites\fishsprite</sprite>
+=======
     <sprite>sprites\DeskSprite</sprite>
     <sprite>sprites\Desk</sprite>
     <sprite>sprites\BookShelf</sprite>
     <sprite>sprites\sprite14</sprite>
+<<<<<<< HEAD
     <sprite>sprites\sprite15</sprite>
     <sprite>sprites\sprite16</sprite>
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -51,7 +58,11 @@
     <room>rooms\room0</room>
     <room>rooms\room2</room>
     <room>rooms\room1</room>
+<<<<<<< HEAD
     <room>rooms\room0x0</room>
+=======
+    <room>rooms\room3</room>
+>>>>>>> origin/master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
