@@ -17,6 +17,7 @@
     <sprite>sprites\flowersprite</sprite>
     <sprite>sprites\eelsprite</sprite>
     <sprite>sprites\starfishsprite</sprite>
+    <sprite>sprites\fishsprite</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -34,6 +35,7 @@
     <room>rooms\room0</room>
     <room>rooms\room2</room>
     <room>rooms\room1</room>
+    <room>rooms\room3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
