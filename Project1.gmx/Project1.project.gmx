@@ -17,12 +17,36 @@
     <sprite>sprites\flowersprite</sprite>
     <sprite>sprites\eelsprite</sprite>
     <sprite>sprites\starfishsprite</sprite>
+<<<<<<< HEAD
+    <sprite>sprites\fishsprite</sprite>
+=======
     <sprite>sprites\DeskSprite</sprite>
     <sprite>sprites\Desk</sprite>
     <sprite>sprites\BookShelf</sprite>
     <sprite>sprites\sprite14</sprite>
+<<<<<<< HEAD
     <sprite>sprites\sprite15</sprite>
     <sprite>sprites\sprite16</sprite>
+=======
+<<<<<<< HEAD
+    <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite16</sprite>
+=======
+<<<<<<< HEAD
+    <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite16</sprite>
+    <sprite>sprites\Portal</sprite>
+    <sprite>sprites\FinalPortal</sprite>
+=======
+<<<<<<< HEAD
+    <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite16</sprite>
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -46,12 +70,39 @@
     <object>objects\PatrickStar</object>
     <object>objects\object17</object>
     <object>objects\object18</object>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <object>objects\object19</object>
+    <object>objects\LastPortal</object>
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room2</room>
     <room>rooms\room1</room>
+<<<<<<< HEAD
     <room>rooms\room0x0</room>
+=======
+<<<<<<< HEAD
+    <room>rooms\room0x0</room>
+=======
+<<<<<<< HEAD
+    <room>rooms\room0x0</room>
+=======
+<<<<<<< HEAD
+    <room>rooms\room0x0</room>
+=======
+    <room>rooms\room3</room>
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
