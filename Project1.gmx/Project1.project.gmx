@@ -17,6 +17,10 @@
     <sprite>sprites\flowersprite</sprite>
     <sprite>sprites\eelsprite</sprite>
     <sprite>sprites\starfishsprite</sprite>
+    <sprite>sprites\DeskSprite</sprite>
+    <sprite>sprites\Desk</sprite>
+    <sprite>sprites\BookShelf</sprite>
+    <sprite>sprites\sprite14</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -29,6 +33,16 @@
     <object>objects\bush</object>
     <object>objects\tree</object>
     <object>objects\boulder</object>
+    <object>objects\DESSSKK</object>
+    <object>objects\BOOKKKSS</object>
+    <object>objects\Burnt_Log</object>
+    <object>objects\BigBoulder</object>
+    <object>objects\FIIRRRREE</object>
+    <object>objects\Seaaawweeedds</object>
+    <object>objects\Flowwaa</object>
+    <object>objects\EEELLSS</object>
+    <object>objects\PatrickStar</object>
+    <object>objects\object17</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
