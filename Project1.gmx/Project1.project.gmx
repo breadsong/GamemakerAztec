@@ -20,7 +20,11 @@
     <sprite>sprites\DeskSprite</sprite>
     <sprite>sprites\Desk</sprite>
     <sprite>sprites\BookShelf</sprite>
-    <sprite>sprites\sprite14</sprite>
+    <sprite>sprites\Water_Portal</sprite>
+    <sprite>sprites\Earth_Portal</sprite>
+    <sprite>sprites\Wind_Portal</sprite>
+    <sprite>sprites\Fire_Portal</sprite>
+    <sprite>sprites\Jag_Portal</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -42,12 +46,21 @@
     <object>objects\Flowwaa</object>
     <object>objects\EEELLSS</object>
     <object>objects\PatrickStar</object>
-    <object>objects\object17</object>
+    <object>objects\WaterPort</object>
+    <object>objects\EarthPort</object>
+    <object>objects\WindPort</object>
+    <object>objects\FirePort</object>
+    <object>objects\JagPort</object>
+    <object>objects\object21</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room2</room>
     <room>rooms\room1</room>
+    <room>rooms\room0x0</room>
+    <room>rooms\room3</room>
+    <room>rooms\room4</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
