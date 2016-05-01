@@ -8,10 +8,17 @@
   <isometric>0</isometric>
   <speed>60</speed>
   <persistent>0</persistent>
+<<<<<<< HEAD
   <colour>3881787</colour>
   <showcolour>-1</showcolour>
   <code></code>
   <enableViews>0</enableViews>
+=======
+  <colour>1710618</colour>
+  <showcolour>-1</showcolour>
+  <code></code>
+  <enableViews>-1</enableViews>
+>>>>>>> origin/master
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
@@ -41,7 +48,11 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
+<<<<<<< HEAD
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+=======
+    <view visible="-1" objName="player" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="640" vborder="480" hspeed="-1" vspeed="-1"/>
+>>>>>>> origin/master
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
@@ -50,6 +61,7 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
+<<<<<<< HEAD
   <instances>
     <instance objName="EarthPort" x="512" y="288" name="inst_E3B38975" locked="0" code="" scaleX="4.33333349227905" scaleY="4.10344839096069" colour="4294967295" rotation="0"/>
     <instance objName="JagPort" x="64" y="64" name="inst_7374865D" locked="0" code="" scaleX="3.72727274894714" scaleY="3.38235282897949" colour="4294967295" rotation="0"/>
@@ -58,6 +70,9 @@
     <instance objName="WaterPort" x="960" y="608" name="inst_E1FAD3A0" locked="0" code="" scaleX="3.82758617401123" scaleY="3.5806450843811" colour="4294967295" rotation="0"/>
     <instance objName="BOOKKKSS" x="704" y="576" name="inst_7FE5DDF0" locked="0" code="" scaleX="2.07317066192627" scaleY="1.79591834545135" colour="4294967295" rotation="0"/>
   </instances>
+=======
+  <instances/>
+>>>>>>> origin/master
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

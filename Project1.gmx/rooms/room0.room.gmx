@@ -11,7 +11,8 @@
   <colour>2660105</colour>
   <showcolour>-1</showcolour>
   <code>global.room_right = room1;
-global.room_left = room2;</code>
+global.room_left = room2;
+global.room_down = room0x0;</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
