@@ -20,17 +20,9 @@
     <sprite>sprites\DeskSprite</sprite>
     <sprite>sprites\Desk</sprite>
     <sprite>sprites\BookShelf</sprite>
-<<<<<<< HEAD
-    <sprite>sprites\Water_Portal</sprite>
-    <sprite>sprites\Earth_Portal</sprite>
-    <sprite>sprites\Wind_Portal</sprite>
-    <sprite>sprites\Fire_Portal</sprite>
-    <sprite>sprites\Jag_Portal</sprite>
-=======
     <sprite>sprites\sprite14</sprite>
     <sprite>sprites\sprite15</sprite>
     <sprite>sprites\sprite16</sprite>
->>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -52,29 +44,14 @@
     <object>objects\Flowwaa</object>
     <object>objects\EEELLSS</object>
     <object>objects\PatrickStar</object>
-<<<<<<< HEAD
-    <object>objects\WaterPort</object>
-    <object>objects\EarthPort</object>
-    <object>objects\WindPort</object>
-    <object>objects\FirePort</object>
-    <object>objects\JagPort</object>
-    <object>objects\object21</object>
-=======
     <object>objects\object17</object>
     <object>objects\object18</object>
->>>>>>> origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room2</room>
     <room>rooms\room1</room>
     <room>rooms\room0x0</room>
-<<<<<<< HEAD
-    <room>rooms\room3</room>
-    <room>rooms\room4</room>
-    <room>rooms\room5</room>
-=======
->>>>>>> origin/master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
