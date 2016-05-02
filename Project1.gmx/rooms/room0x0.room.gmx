@@ -56,7 +56,7 @@
     <instance objName="WindPort" x="928" y="96" name="inst_64C2488F" locked="0" code="" scaleX="4.05555534362793" scaleY="4.39393949508667" colour="4294967295" rotation="0"/>
     <instance objName="WPort" x="96" y="576" name="inst_CE17CC6B" locked="0" code="" scaleX="4.05555534362793" scaleY="4.5" colour="4294967295" rotation="0"/>
     <instance objName="FPort" x="928" y="576" name="inst_97C08324" locked="0" code="" scaleX="3.76923084259033" scaleY="3.70000004768372" colour="4294967295" rotation="0"/>
-    <instance objName="BOOKKKSS" x="960" y="352" name="inst_D72A0FBE" locked="0" code="" scaleX="2.85365843772888" scaleY="1.79591834545135" colour="4294967295" rotation="0"/>
+    <instance objName="BOOKKKSS" x="960" y="352" name="inst_D72A0FBE" locked="0" code="" scaleX="1.5" scaleY="0.939999997615814" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

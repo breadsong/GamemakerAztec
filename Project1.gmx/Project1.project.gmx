@@ -26,6 +26,8 @@
     <sprite>sprites\JagPortal</sprite>
     <sprite>sprites\FirePortal</sprite>
     <sprite>sprites\sprite19</sprite>
+    <sprite>sprites\Crack1</sprite>
+    <sprite>sprites\Crack2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -53,6 +55,8 @@
     <object>objects\WindPort</object>
     <object>objects\JPort</object>
     <object>objects\FPort</object>
+    <object>objects\CRACK</object>
+    <object>objects\CRACKIS2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
@@ -61,6 +65,7 @@
     <room>rooms\room0x0</room>
     <room>rooms\room3</room>
     <room>rooms\room4</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

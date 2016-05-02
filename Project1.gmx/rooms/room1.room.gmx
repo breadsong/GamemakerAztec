@@ -116,7 +116,6 @@
     <instance objName="bush" x="96" y="608" name="inst_9EFBCBCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="128" y="608" name="inst_C68F95D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="160" y="640" name="inst_7F6E4457" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bush" x="192" y="640" name="inst_D4517DE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="224" y="640" name="inst_46FB8D79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="256" y="640" name="inst_60834205" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="288" y="640" name="inst_3982E6DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -143,7 +142,6 @@
     <instance objName="bush" x="928" y="608" name="inst_6B1BBC4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="960" y="608" name="inst_BE3A0E45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="992" y="608" name="inst_1DB8868D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bush" x="992" y="640" name="inst_BE6AA4D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="1024" y="608" name="inst_56359362" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="192" y="96" name="inst_787DFD22" locked="0" code="" scaleX="3" scaleY="4.32000017166138" colour="4294967295" rotation="0"/>
     <instance objName="tree" x="224" y="96" name="inst_608C0F1C" locked="0" code="" scaleX="5.46153831481934" scaleY="1.75999999046326" colour="4294967295" rotation="0"/>
@@ -218,6 +216,12 @@
     <instance objName="bush" x="544" y="736" name="inst_C32E5543" locked="0" code="" scaleX="3.07999992370605" scaleY="2.5" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="416" y="736" name="inst_59267D39" locked="0" code="" scaleX="1.79999995231628" scaleY="2.5" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="224" y="736" name="inst_80C1C32A" locked="0" code="" scaleX="1.79999995231628" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="928" y="32" name="inst_3DD17463" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="416" y="128" name="inst_58CA9AA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="672" y="704" name="inst_4E368898" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="928" y="128" name="inst_F1ED2D0F" locked="0" code="" scaleX="1.86956524848938" scaleY="1.83333337306976" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="192" y="640" name="inst_0AC1FE29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="992" y="640" name="inst_CF601915" locked="0" code="" scaleX="-0.91304349899292" scaleY="1.83333337306976" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -104,9 +104,7 @@ global.room_down = room0x0;</code>
     <instance objName="bush" x="320" y="0" name="inst_959C3901" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="320" y="32" name="inst_EC8026E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="320" y="64" name="inst_AFB2574C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bush" x="352" y="96" name="inst_7851FE87" locked="0" code="" scaleX="0.519999980926514" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="352" y="96" name="inst_2D96D0B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bush" x="352" y="96" name="inst_85C5C830" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="384" y="128" name="inst_0744AB9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="384" y="128" name="inst_EEF92F63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="416" y="160" name="inst_EFF5A6AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -314,6 +312,15 @@ global.room_down = room0x0;</code>
     <instance objName="bush" x="0" y="512" name="inst_B4B672CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="0" y="544" name="inst_60368D54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bush" x="0" y="576" name="inst_FBD7F8EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="608" y="256" name="inst_FB88688C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="384" y="128" name="inst_B77547EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="160" y="32" name="inst_60F1FB7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="128" y="672" name="inst_5BC5F403" locked="0" code="" scaleX="0.91304349899292" scaleY="1.39999997615814" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="384" y="736" name="inst_FDD05596" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="640" y="672" name="inst_EC52A66A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="960" y="672" name="inst_685CA2C2" locked="0" code="" scaleX="1.91304349899292" scaleY="1.83333337306976" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="608" y="160" name="inst_1FE7400D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Flowwaa" x="448" y="96" name="inst_33AB24BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
