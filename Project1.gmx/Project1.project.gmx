@@ -31,11 +31,18 @@
     <sprite>sprites\fishsprite</sprite>
     <sprite>sprites\Crack1</sprite>
     <sprite>sprites\Crack2</sprite>
+    <sprite>sprites\player_shadow_sprite</sprite>
+    <sprite>sprites\slimesprite</sprite>
   </sprites>
   <backgrounds name="background"/>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
   <scripts name="scripts">
-    <script>scripts\walkscript.gml</script>
+    <script>scripts\scr_get_input.gml</script>
+    <script>scripts\scr_move_state.gml</script>
+    <script>scripts\scr_dash_state.gml</script>
+    <script>scripts\scr_frozen_state.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\player</object>
@@ -63,6 +70,10 @@
     <object>objects\CRACK</object>
     <object>objects\CRACKIS2</object>
     <object>objects\hud_controller</object>
+    <object>objects\viewobject</object>
+    <object>objects\dash_effect</object>
+    <object>objects\enemyslime</object>
+    <object>objects\life_parent</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0x0</room>

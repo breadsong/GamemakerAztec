@@ -5,7 +5,7 @@
   <visible>-1</visible>
   <depth>-10</depth>
   <persistent>-1</persistent>
-  <parentName>block</parentName>
+  <parentName>life_parent</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
     <event eventtype="0" enumb="0">
@@ -26,9 +26,41 @@
           <argument>
             <kind>1</kind>
             <string>//set fixed rotation
-phy_fixed_rotation = true;
-spd = 3.5;
-image_speed = 0.3;
+event_inherited();
+spd = 3;
+xaxis = 0;
+yaxis = 0;
+hspd = 0;
+vspd = 0;
+len = 0;
+dir = 0;
+image_speed = 0;
+scr_get_input();
+state = scr_move_state;
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="2" enumb="0">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>// dash state alarm
+state = scr_move_state;
 </string>
           </argument>
         </arguments>
@@ -51,51 +83,10 @@ image_speed = 0.3;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>down = keyboard_check(vk_down);
-up = keyboard_check(vk_up);
-left = keyboard_check(vk_left);
-right = keyboard_check(vk_right);
+            <string>event_inherited();
 
-
-// move down
-if (down){
-    phy_position_y += spd;
-    //direction = 270
-    //speed = 3
-    //sprite_index = ld
-    image_speed = 0.3
-}
-
-// move up
-if (up){
-    phy_position_y -= spd;
-    //direction = 90
-    //speed = 3
-    //sprite_index = ld
-    image_speed = 0.3
-}
-
-// move left
-if (left){
-    phy_position_x -= spd;
-    //direction = 180
-    //speed = 3
-    //sprite_index = ld
-    image_speed = 0.3
-}
-//move right
-if (right){
-    phy_position_x += spd;
-    //direction = 0
-    //speed = 3
-    //sprite_index = ld
-    image_speed = 0.3
-}
-if (!down and !up and !left and !down){
-    image_speed = 0;
-    image_index = 0;
-}
-
+//run the move state script each step
+script_execute(state);
 </string>
           </argument>
         </arguments>
@@ -162,6 +153,31 @@ if(y &gt; room_height){
     room_goto(global.room_down);
 
 }
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="8" enumb="0">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>//draw shadow  
+draw_sprite(player_shadow_sprite, image_index, x+1, y+5);
+draw_self();
 </string>
           </argument>
         </arguments>
