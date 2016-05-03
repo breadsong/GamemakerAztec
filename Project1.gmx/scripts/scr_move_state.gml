@@ -6,6 +6,12 @@ if(dashkey){
     alarm[0] = room_speed/7;
 }
 
+if(attack){
+    image_index = 0;
+    state = scr_atk_state;
+    alarm[0] = room_speed/7;
+}
+
 //get direction
 dir = point_direction(0,0,xaxis,yaxis);
 
