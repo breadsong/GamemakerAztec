@@ -134,12 +134,9 @@
     <instance objName="UPROOT" x="224" y="736" name="inst_49345E52" locked="0" code="" scaleX="1.5" scaleY="2.41176462173462" colour="4294967295" rotation="0"/>
     <instance objName="UPROOT" x="64" y="736" name="inst_5D917EFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Whirl" x="576" y="128" name="inst_45FC4737" locked="0" code="" scaleX="1.39285719394684" scaleY="2.28205132484436" colour="4294967295" rotation="0"/>
-    <instance objName="Whirl" x="128" y="640" name="inst_6A1157C9" locked="0" code="" scaleX="1.64285719394684" scaleY="2.12820506095886" colour="4294967295" rotation="0"/>
+    <instance objName="Whirl" x="160" y="640" name="inst_6A1157C9" locked="0" code="" scaleX="1.64285719394684" scaleY="2.12820506095886" colour="4294967295" rotation="0"/>
     <instance objName="UPROOT" x="896" y="640" name="inst_2008813F" locked="0" code="" scaleX="2.5" scaleY="4.23529434204102" colour="4294967295" rotation="18"/>
     <instance objName="UPROOT" x="544" y="32" name="inst_B9C8694E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="UPROOT" x="992" y="384" name="inst_E2D57874" locked="0" code="" scaleX="1.5" scaleY="2.41176462173462" colour="4294967295" rotation="18"/>
-    <instance objName="UPROOT" x="992" y="448" name="inst_F940BFED" locked="0" code="" scaleX="2.5" scaleY="2.41176462173462" colour="4294967295" rotation="87"/>
-    <instance objName="Whirl" x="96" y="96" name="inst_E12A7C8C" locked="0" code="" scaleX="-1.78571426868439" scaleY="1.30769228935242" colour="4294967295" rotation="50"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
