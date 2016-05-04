@@ -33,6 +33,7 @@
     <sprite>sprites\Crack2</sprite>
     <sprite>sprites\player_shadow_sprite</sprite>
     <sprite>sprites\slimesprite</sprite>
+    <sprite>sprites\Sprite_Wall_vine</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
@@ -75,6 +76,8 @@
     <object>objects\dash_effect</object>
     <object>objects\enemyslime</object>
     <object>objects\life_parent</object>
+    <object>objects\object29</object>
+    <object>objects\object_Wall_Vine</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0x0</room>
@@ -88,6 +91,8 @@
     <room>rooms\room3</room>
     <room>rooms\room4</room>
     <room>rooms\room5</room>
+    <room>rooms\room11</room>
+    <room>rooms\room12</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
